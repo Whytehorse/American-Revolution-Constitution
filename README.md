@@ -223,6 +223,9 @@ Because we were born, and are alive, we assert our rights as follows:
 
 31. **Additional Rights**. There are additional rights not enumerated here. They are included too.
 
+# Article 14
+**Centralization:** Centralized power, force, and coercion are prohibited.
+
 
 --------
 
