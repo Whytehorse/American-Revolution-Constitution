@@ -159,6 +159,20 @@ Itshappening.gif
 
 We are sovereign. We’re together. We’re the future.
 
+# Article 13: Ambassadors, Embassies, and Consulates
+
+**Ambassadors** are Bitnation citizens who provide tangible services to Bitnation citizens and diplomatic and community support positions to foster peaceful relations with other Nations. Ambassadors can be one of the following categories:
+
+1. DIPLOMATIC AMBASSADOR (DA): Perform duties as Officers working with existing Nations, as well as new virtual Nations. Full rights of Diplomatic immunity, travel, etc. will necessarily be vested with them.
+2. DIPLOMATIC CONSULS (DC): Formal Official position. Serves primarily in a ‘support role’ to both our Ambassadors and to Nation/State embassies and consulates dealing with our ‘citizens’ in foreign nations touristing/working or living as expatriates in the location of the Embassy/Consulate. Full rights of Consular immunity, travel, etc. will necessarily be vested within you.
+3. GOODWILL AMBASSADOR (GA): Informal Official representative for BITNATION during Events like DEVCON and even UN Events. Generally promotes and supports BITNATION and our services. Serve Refugees, the Stateless, people in frontier and emerging markets, assist using technology to facilitate meeting real-world basic needs to eradicate poverty, and opportunities to share the BITNATION vision in social or professional settings.
+
+Any Bitnation citizen can become an ambassador for themselves and may represent others who have agreed to be represented by that ambassador. A full list of registered ambassadors can be found online at bitnation.io
+
+**Embassies** are places where Bitnation ambassadors live and work. Due to the decentralized nature of Bitnation, a private residence or office is said to be owned by the government of Bitnation if the citizen is also an Ambassador, but only for the purposes of interacting with legacy nation-states; for example: to establish an embassy on record with the country the citizen resides in. A full list of registered embassies may be verified online at bitnation.io
+
+**Consulates** are places where the Bitnation ambassadors and their consuls work. An embassy is also a consulate if the ambassador works there.
+
 --------
 
 
